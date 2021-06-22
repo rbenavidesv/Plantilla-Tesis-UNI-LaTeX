@@ -1,4 +1,14 @@
 #### SOBRE LA PLANTILLA
+## Para  ejecutar en Overleaf  
+
+1. Descargar el repositorio en .zip   
+2. En Overleaf  'New Proyect' 
+2.1. Selecciona Upload Proyect 
+2.2. Selecciona el archivo descargado  en .zip
+3. Dentro del proyecto en Overleaf  no comilara con el motor 'pdfLaTeX' por lo que se debe cambiar, en la seccion Menu -> Compiler -> seleccionar (XeLaTeX  o  LuaLaTeX)
+4. Listo  recompila  el codigo y opten tu pdf para ser descargado.
+
+## Otras recomendaciones
 
 Los archivos principales son:
 - TESIS_UNI_main.tex, archivo a ejecutar
